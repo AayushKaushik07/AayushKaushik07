@@ -13,6 +13,7 @@ Full work authorization in Germany, no sponsorship needed.
 ## Experience
 
 **Bosch Rexroth AG, Murrhardt** · Software Engineer, master's thesis · Apr 2025 – Sep 2025
+
 *Thesis: Software Development for Machine Capability Testing of Next-Generation Tightening Tools*
 
 - Replaced a licensed third-party tool with CapTIS, a C#/.NET and SQL application the development team
